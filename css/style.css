@@ -1,0 +1,9 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-position: right 50px;
+    align-items: center;
+}
+header nav li a {
+    font-family: 'Noto Sans', sans-serif;
+}
